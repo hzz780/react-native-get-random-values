@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "react-native-get-random-values"
-  s.version      = "1.1.0"
+  s.version      = "1.2.0-pre1"
   s.summary      = "A small implementation of `getRandomValues` for React Native"
   s.homepage     = "https://github.com/LinusU/react-native-get-random-values"
   s.license      = "MIT"
