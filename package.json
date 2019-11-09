@@ -1,8 +1,8 @@
 {
-  "name": "react-native-get-random-values",
-  "version": "1.1.0",
+  "name": "react-native-get-random-values-fork",
+  "version": "1.1.1",
   "license": "MIT",
-  "repository": "LinusU/react-native-get-random-values",
+  "repository": "hzz780/react-native-get-random-values",
   "dependencies": {
     "fast-base64-decode": "^1.0.0"
   },
@@ -15,6 +15,7 @@
     "get-random-values",
     "getRandomValues",
     "polyfill",
-    "react-native"
+    "react-native",
+    "LinusU/react-native-get-random-values"
   ]
 }
